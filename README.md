@@ -1,6 +1,7 @@
 ### Hi there ✨
  - Bachelor of Applied Informatics.
- - Currently working in SPbSTU.
+ - I'm currently working in SPbSTU.
+ - Interested in data analysis, machine learning and neural networks.
 
 <!--
 **sixxio/sixxio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
