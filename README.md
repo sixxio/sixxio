@@ -1,6 +1,7 @@
 ### Hi there ✨
  - Bachelor of Applied Informatics.
- - I'm currently working in SPbSTU.
+ - Studying at Artificial Intelligence @IFMO.
+ - Currently working @SPbSTU.
  - Interested in data analysis, machine learning and neural networks.
 
 <!--
