@@ -1,8 +1,8 @@
 ### Hi there ✨
  - Bachelor of Applied Informatics.
- - Studying at Artificial Intelligence @IFMO.
- - Currently working @SPbSTU.
- - Interested in data analysis, machine learning and neural networks.
+ - Master of Artificial Intelligence @IFMO.
+ - Currently working @NDA.
+ - Interested in agentic pipelines.
 
 <!--
 **sixxio/sixxio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
